@@ -1,4 +1,4 @@
-# Customer Shopping Trends Analysis – Beginner SQL Project
+# Customer Shopping Trends Analysis – SQL Project
  Includes GitHub Upload
 In this project, we source a customer sales trends dataset from Kaggle. We take on the role of customer analytics specialists hired by a large retail store to help them answer one core question:
 What should the store stock—and when—in order to maximize sales, reduce lost sales, and minimize dead stock?
